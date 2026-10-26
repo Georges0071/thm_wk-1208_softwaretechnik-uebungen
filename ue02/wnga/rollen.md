@@ -1,13 +1,13 @@
 # Rollen — Terminplaner für die THM
 
-Mitgearbeitet haben (GitHub-Benutzernamen, auch bei Einzelarbeit): @…
+Github-Username: Georges0071
 
 ## Der Kunde
 
 | Bereich | Wer ist das an der THM? | Woran machen Sie es fest? |
 |---|---|---|
-| Fachbereich (eigentlicher Auftraggeber) | Studenten | Sie sind die Endanwender |
-| IT-Bereich | Entwicklerteam der Hochschule und | … |
+| Fachbereich (eigentlicher Auftraggeber) | Studenten, Sekretariat, Lehrende | Sie sind die Endanwender |
+| IT-Bereich | Entwicklerteam der Hochschule | Sie sind diejenigen, die an der Implementierung teilnehmen |
 
 ## Das Projektteam
 
