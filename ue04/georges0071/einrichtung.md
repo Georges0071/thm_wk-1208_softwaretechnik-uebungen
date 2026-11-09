@@ -9,12 +9,12 @@
 
 | Angabe | Ihre Angabe |
 |---|---|
-| Läuft der Agent? | … |
-| Werkzeug | … |
-| Version | … |
-| Betriebssystem | … |
-| Modellzugang | … |
-| Modell | … |
+| Läuft der Agent? | ja |
+| Werkzeug | opencode |
+| Version | v2.2.6 |
+| Betriebssystem | Windows |
+| Modellzugang | free |
+| Modell | Big Pickle |
 
 <!-- Läuft der Agent?: ja, teilweise oder nein. Teilweise heißt, er
      startet, aber ein Schritt danach scheitert (Anmeldung, Antwort,
@@ -36,7 +36,7 @@
      gefunden? Hat er etwas Fremdes für Ihres gehalten oder etwas erfunden?
      Zwei bis drei Sätze. -->
 
-…
+Ja, der Agent hat die richtige Dateien gefunden und gelesen. Alle Dateien von Übung 1 bis Übung 4.
 
 ## Wenn es nicht läuft
 
